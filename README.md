@@ -1,3 +1,2 @@
-# roll_the_dices
-
-Roll the dices
+# Roll the dices
+A simple app written using Dart and Flutter to roll the dices.
